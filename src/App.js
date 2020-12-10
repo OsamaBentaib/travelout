@@ -25,7 +25,7 @@ function App() {
               <Contact />
             </Route>
             <Route>
-              <Page_404 />
+              <NotFound />
             </Route>
           </Switch>
         </div>
