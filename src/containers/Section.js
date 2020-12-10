@@ -1,6 +1,4 @@
 import React from "react";
-import tokyo from "./../assets/img/tokyo.jpg";
-import newyork from "./../assets/img/newyork.jpg";
 import SectionMore from "../components/SectionMore";
 export default function Section({ section, expanded, currentSection }) {
   const { id, title, description, facts, background } = section;

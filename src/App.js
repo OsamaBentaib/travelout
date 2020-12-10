@@ -4,7 +4,7 @@ import Landing from "./containers/Landing";
 import { BrowserRouter, Route, Switch } from "react-router-dom";
 import Story from "./containers/Story";
 import Contact from "./containers/Contact";
-import Page_404 from "./containers/404";
+import NotFound from "./containers/NotFound";
 function App() {
   return (
     <main>

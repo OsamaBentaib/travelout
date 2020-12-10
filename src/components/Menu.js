@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { FiAlignJustify, FiThumbsDown, FiX } from "react-icons/fi";
+import { FiAlignJustify, FiX } from "react-icons/fi";
 import { Link } from "react-router-dom";
 
 export default function Menu() {
